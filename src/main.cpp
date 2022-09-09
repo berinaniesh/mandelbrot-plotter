@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include <SFML/Graphics.hpp>
 
 int main() {
-    printf("Hello World!\n");
     return 0;
 }
